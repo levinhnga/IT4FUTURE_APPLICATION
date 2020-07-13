@@ -1,0 +1,12 @@
+C:\Users\light\source\repos\NoteTakingApplication\NoteTakingApplication\bin\Debug\NoteTakingApplication.exe.config
+C:\Users\light\source\repos\NoteTakingApplication\NoteTakingApplication\bin\Debug\NoteTakingApplication.exe
+C:\Users\light\source\repos\NoteTakingApplication\NoteTakingApplication\bin\Debug\NoteTakingApplication.pdb
+C:\Users\light\source\repos\NoteTakingApplication\NoteTakingApplication\obj\Debug\NoteTakingApplication.csprojAssemblyReference.cache
+C:\Users\light\source\repos\NoteTakingApplication\NoteTakingApplication\obj\Debug\NoteTakingApplication.Properties.Resources.resources
+C:\Users\light\source\repos\NoteTakingApplication\NoteTakingApplication\obj\Debug\NoteTakingApplication.csproj.GenerateResource.cache
+C:\Users\light\source\repos\NoteTakingApplication\NoteTakingApplication\obj\Debug\NoteTakingApplication.csproj.CoreCompileInputs.cache
+C:\Users\light\source\repos\NoteTakingApplication\NoteTakingApplication\obj\Debug\NoteTakingApplication.exe
+C:\Users\light\source\repos\NoteTakingApplication\NoteTakingApplication\obj\Debug\NoteTakingApplication.pdb
+C:\Users\light\source\repos\NoteTakingApplication\NoteTakingApplication\obj\Debug\NoteTakingApplication.frmLogin.resources
+C:\Users\light\source\repos\NoteTakingApplication\NoteTakingApplication\obj\Debug\NoteTakingApplication.frmDashboard.resources
+C:\Users\light\source\repos\NoteTakingApplication\NoteTakingApplication\obj\Debug\NoteTakingApplication.frmCreateNote.resources

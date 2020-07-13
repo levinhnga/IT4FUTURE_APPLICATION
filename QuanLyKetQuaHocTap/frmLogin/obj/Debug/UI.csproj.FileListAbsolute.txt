@@ -1,0 +1,15 @@
+C:\Users\light\source\repos\QuanLyKetQuaHocTap\frmLogin\bin\Debug\frmLogin.exe.config
+C:\Users\light\source\repos\QuanLyKetQuaHocTap\frmLogin\bin\Debug\frmLogin.exe
+C:\Users\light\source\repos\QuanLyKetQuaHocTap\frmLogin\bin\Debug\frmLogin.pdb
+C:\Users\light\source\repos\QuanLyKetQuaHocTap\frmLogin\obj\Debug\frmLogin.frmDashboard.resources
+C:\Users\light\source\repos\QuanLyKetQuaHocTap\frmLogin\obj\Debug\frmLogin.Properties.Resources.resources
+C:\Users\light\source\repos\QuanLyKetQuaHocTap\frmLogin\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\light\source\repos\QuanLyKetQuaHocTap\frmLogin\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\light\source\repos\QuanLyKetQuaHocTap\frmLogin\obj\Debug\frmLogin.exe
+C:\Users\light\source\repos\QuanLyKetQuaHocTap\frmLogin\obj\Debug\frmLogin.pdb
+C:\Users\light\source\repos\QuanLyKetQuaHocTap\frmLogin\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\light\source\repos\QuanLyKetQuaHocTap\frmLogin\obj\Debug\frmLogin.frmCreateAccount.resources
+C:\Users\light\source\repos\QuanLyKetQuaHocTap\frmLogin\obj\Debug\frmLogin.frmChangeSubjectMarks.resources
+C:\Users\light\source\repos\QuanLyKetQuaHocTap\frmLogin\obj\Debug\frmLogin.frmLogin.resources
+C:\Users\light\source\repos\QuanLyKetQuaHocTap\frmLogin\obj\Debug\frmLogin.frmMarksOfSubject.resources
+C:\Users\light\source\repos\QuanLyKetQuaHocTap\frmLogin\obj\Debug\frmLogin.frmDiemToHop.resources

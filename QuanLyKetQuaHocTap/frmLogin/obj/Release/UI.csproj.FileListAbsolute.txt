@@ -1,0 +1,15 @@
+C:\Users\light\source\repos\QuanLyKetQuaHocTap\frmLogin\bin\Release\frmLogin.exe.config
+C:\Users\light\source\repos\QuanLyKetQuaHocTap\frmLogin\bin\Release\frmLogin.exe
+C:\Users\light\source\repos\QuanLyKetQuaHocTap\frmLogin\bin\Release\frmLogin.pdb
+C:\Users\light\source\repos\QuanLyKetQuaHocTap\frmLogin\obj\Release\UI.csprojAssemblyReference.cache
+C:\Users\light\source\repos\QuanLyKetQuaHocTap\frmLogin\obj\Release\frmLogin.frmChangeSubjectMarks.resources
+C:\Users\light\source\repos\QuanLyKetQuaHocTap\frmLogin\obj\Release\frmLogin.frmDiemToHop.resources
+C:\Users\light\source\repos\QuanLyKetQuaHocTap\frmLogin\obj\Release\frmLogin.frmLogin.resources
+C:\Users\light\source\repos\QuanLyKetQuaHocTap\frmLogin\obj\Release\frmLogin.frmCreateAccount.resources
+C:\Users\light\source\repos\QuanLyKetQuaHocTap\frmLogin\obj\Release\frmLogin.frmDashboard.resources
+C:\Users\light\source\repos\QuanLyKetQuaHocTap\frmLogin\obj\Release\frmLogin.frmMarksOfSubject.resources
+C:\Users\light\source\repos\QuanLyKetQuaHocTap\frmLogin\obj\Release\frmLogin.Properties.Resources.resources
+C:\Users\light\source\repos\QuanLyKetQuaHocTap\frmLogin\obj\Release\UI.csproj.GenerateResource.cache
+C:\Users\light\source\repos\QuanLyKetQuaHocTap\frmLogin\obj\Release\UI.csproj.CoreCompileInputs.cache
+C:\Users\light\source\repos\QuanLyKetQuaHocTap\frmLogin\obj\Release\frmLogin.exe
+C:\Users\light\source\repos\QuanLyKetQuaHocTap\frmLogin\obj\Release\frmLogin.pdb
